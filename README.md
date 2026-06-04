@@ -1,13 +1,4 @@
 
-# Excelerate 🚀
-
-**Excelerate** is a modern, production-ready Flutter application designed to streamline the internship discovery, application, and management process. Built with a warm, professional aesthetic and modern UI/UX principles, it provides a seamless experience for students and interns to browse opportunities, apply for programs, and communicate with administrators.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material_3-0061FF?style=for-the-badge&logo=materialdesign&logoColor=white)
-
----
 
 # Excelerate 🚀
 
